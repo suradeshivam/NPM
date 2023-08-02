@@ -17,6 +17,10 @@
 // git branch -M main
 // git push -u origin main
 // and done !
+// to update the files 
+// git add .
+// git commit -m "second commit"
+// git push origin main
 
 
 
